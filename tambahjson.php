@@ -19,7 +19,7 @@ echo "response ".$response;
 curl_close($ch);
 }
 ?>
-<form method="POST" action="index.php">
+<form method="POST" action="tambah.php">
 <table>
 <tr>
 <td>NIM</td>
